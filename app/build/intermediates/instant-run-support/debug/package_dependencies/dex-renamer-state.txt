@@ -1,0 +1,7 @@
+#Wed Oct 11 11:56:52 PDT 2017
+base.0=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\Assignment2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ad7d87e747b9a195bf15bd7ddc4f96ad773ab08f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\Assignment2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_50000ec24da4c7d016ffa2f6da0526fd3873345c\\classes.dex
+base.1=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\Assignment2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_50000ec24da4c7d016ffa2f6da0526fd3873345c
+file.0=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\Assignment2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ad7d87e747b9a195bf15bd7ddc4f96ad773ab08f\\classes.dex

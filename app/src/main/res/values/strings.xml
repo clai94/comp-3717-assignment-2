@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lam_Lai</string>
+    <string name="title_activity_countries">countries</string>
+    <string name="title_activity_details">Details</string>
+</resources>
