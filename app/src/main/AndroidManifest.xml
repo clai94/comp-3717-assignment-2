@@ -20,8 +20,8 @@
             android:name=".Countries"
             android:label="@string/title_activity_countries" />
         <activity
-            android:name=".Details"
-            android:label="@string/title_activity_details"></activity>
+            android:name=".CountryDetails"
+            android:label="@string/title_activity_country_details"></activity>
     </application>
 
 </manifest>

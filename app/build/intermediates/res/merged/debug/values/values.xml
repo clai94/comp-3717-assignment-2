@@ -97,8 +97,9 @@
     <declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable>
     <string name="app_name">Lam_Lai</string>
     <string name="title_activity_countries">countries</string>
+    <string name="title_activity_country_details">Country Details</string>
     <string name="title_activity_details">Details</string>
     <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
-        
+        <!-- Customize your theme here. -->
     </style>
 </resources>

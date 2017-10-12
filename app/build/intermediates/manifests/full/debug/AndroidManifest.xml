@@ -26,8 +26,8 @@
             android:name="ca.bcit.ass2.lam_lai.Countries"
             android:label="@string/title_activity_countries" />
         <activity
-            android:name="ca.bcit.ass2.lam_lai.Details"
-            android:label="@string/title_activity_details" />
+            android:name="ca.bcit.ass2.lam_lai.CountryDetails"
+            android:label="@string/title_activity_country_details" />
     </application>
 
 </manifest>

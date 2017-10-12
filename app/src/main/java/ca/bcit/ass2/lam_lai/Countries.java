@@ -3,7 +3,6 @@ package ca.bcit.ass2.lam_lai;
 import android.app.ListActivity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.app.Activity;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
@@ -25,9 +24,9 @@ public class Countries extends ListActivity {
 
     public void onListItemClick(ListView list, final View view,
                                 int position, long id) {
-        Intent intent = new Intent(Countries.this, Details.class);
+        Intent intent = new Intent(Countries.this, CountryDetails.class);
 
-        intent.putExtra("continent", countries[position]);
+       // intent.putExtra("countries", countries[position]);
 
         startActivity(intent);
     }
