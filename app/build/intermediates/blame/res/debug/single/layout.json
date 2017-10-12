@@ -1,14 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_country_details.xml",
-        "source": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\layout\\activity_country_details.xml"
+        "merged": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_country_details.xml",
+        "source": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\layout\\activity_country_details.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_countries.xml",
-        "source": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\layout\\activity_countries.xml"
+        "merged": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_countries.xml",
+        "source": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\layout\\activity_countries.xml"
+    },
+    {
+        "merged": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/res/merged/debug/layout/activity_country_details.xml",
+        "source": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/res/layout/activity_country_details.xml"
+    },
+    {
+        "merged": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/res/merged/debug/layout/activity_countries.xml",
+        "source": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/res/layout/activity_countries.xml"
+    },
+    {
+        "merged": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/res/layout/activity_main.xml"
     }
 ]

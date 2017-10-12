@@ -1,69 +1,69 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:3:5-35
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:7:5-27:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC\.android\build-cache\6fd90d3826f4b7070eb921bb7eb78c2d484cfd5a\output\AndroidManifest.xml:9:5-20
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/clai/.android/build-cache/c8994f0fa71f9bd2e1dfc344b394d8444b60a657/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:12:9-35
 	android:roundIcon
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:11:9-54
 	android:allowBackup
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:13:9-40
 activity#ca.bcit.ass2.lam_lai.MainActivity
-ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:18:27-74
 activity#ca.bcit.ass2.lam_lai.Countries
-ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:21:9-23:64
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:21:9-23:64
 	android:label
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:23:13-61
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:23:13-61
 	android:name
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:22:13-38
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:22:13-38
 activity#ca.bcit.ass2.lam_lai.CountryDetails
-ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:24:9-26:79
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:24:9-26:79
 	android:label
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:26:13-67
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:26:13-67
 	android:name
-		ADDED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml:25:13-43
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:25:13-43
 uses-sdk
-INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC\.android\build-cache\6fd90d3826f4b7070eb921bb7eb78c2d484cfd5a\output\AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/clai/.android/build-cache/c8994f0fa71f9bd2e1dfc344b394d8444b60a657/output/AndroidManifest.xml:5:5-7:41
 	android:targetSdkVersion
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
