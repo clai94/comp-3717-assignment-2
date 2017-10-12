@@ -464,11 +464,18 @@ containing a value of this type.
     }
     public static final class id {
         public static final int all=0x7f070005;
+        public static final int area=0x7f07000d;
         public static final int basic=0x7f070006;
+        public static final int borders=0x7f07000e;
+        public static final int capital=0x7f07000a;
         public static final int chains=0x7f070007;
+        public static final int flag=0x7f07000f;
+        public static final int name=0x7f070009;
         public static final int none=0x7f070008;
         public static final int packed=0x7f070003;
         public static final int parent=0x7f070000;
+        public static final int population=0x7f07000c;
+        public static final int region=0x7f07000b;
         public static final int spread=0x7f070001;
         public static final int spread_inside=0x7f070004;
         public static final int wrap=0x7f070002;

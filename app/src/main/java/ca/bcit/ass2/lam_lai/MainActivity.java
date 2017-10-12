@@ -10,7 +10,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class MainActivity extends ListActivity {
-    String[] continents = new String[]{"North America"};
+    String[] continents = new String[]{"Africa", "Americas", "Asia", "Europe", "Oceania", "Polar"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +28,7 @@ public class MainActivity extends ListActivity {
                                 int position, long id) {
         Intent intent = new Intent(MainActivity.this, Countries.class);
 
+        //Passes on the continent to the next activity
         intent.putExtra("continent", continents[position]);
 
         startActivity(intent);
