@@ -1,4 +1,4 @@
-#Thu Oct 12 11:20:38 PDT 2017
-base.0=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+#Fri Oct 13 01:12:55 PDT 2017
+base.0=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
 renamed.0=classes.dex
-file.0=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
+file.0=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

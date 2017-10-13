@@ -1,7 +1,7 @@
-#Wed Oct 11 13:33:06 PDT 2017
-base.0=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ad7d87e747b9a195bf15bd7ddc4f96ad773ab08f
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_50000ec24da4c7d016ffa2f6da0526fd3873345c\\classes.dex
-base.1=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_50000ec24da4c7d016ffa2f6da0526fd3873345c
-file.0=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ad7d87e747b9a195bf15bd7ddc4f96ad773ab08f\\classes.dex
+#Fri Oct 13 01:12:53 PDT 2017
+base.0=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_465635c9328e9ed5737916ef63b3c013ae1b7755
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bf98f19ffa843f816721aad0a7f1c407bfefed5/classes.dex
+base.1=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bf98f19ffa843f816721aad0a7f1c407bfefed5
+file.0=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_465635c9328e9ed5737916ef63b3c013ae1b7755/classes.dex

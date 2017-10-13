@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a454a959d24110e3a039470e516c2c39347c338">
+        <dex dex="/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_02d69e3a6e6b1b0ce5d58120b4b18f9f511971da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b9873424ec2f20b77403ef87e9402984c33cc392\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c7d1f36168bf10849605ddb6320149dc65e5a454">
-        <dex dex="C:\Users\PC\Desktop\BCIT\Term 3\3717\Assignments\Assignment 2\comp-3717-assignment-2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f94026fa998b1630290d7653f12690bfc4911790\classes.dex" />
+        <dex dex="/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_04d28a70bd4841d045c2366e2984e3b1f3668ffc/classes.dex" />
     </item>
 
 </items>

@@ -1,7 +1,7 @@
-#Thu Oct 12 11:11:02 PDT 2017
-base.0=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f94026fa998b1630290d7653f12690bfc4911790
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b9873424ec2f20b77403ef87e9402984c33cc392\\classes.dex
-base.1=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b9873424ec2f20b77403ef87e9402984c33cc392
-file.0=C\:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f94026fa998b1630290d7653f12690bfc4911790\\classes.dex
+#Fri Oct 13 01:12:56 PDT 2017
+base.0=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_04d28a70bd4841d045c2366e2984e3b1f3668ffc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_02d69e3a6e6b1b0ce5d58120b4b18f9f511971da/classes.dex
+base.1=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_02d69e3a6e6b1b0ce5d58120b4b18f9f511971da
+file.0=/Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_04d28a70bd4841d045c2366e2984e3b1f3668ffc/classes.dex
