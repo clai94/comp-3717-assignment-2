@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ca.bcit.ass2.lam_lai.test" >
+    package="ca.bcit.ass2.calvinlai_anguslam.test" >
 
     <uses-sdk
         android:minSdkVersion="19"
@@ -10,8 +10,8 @@
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for ca.bcit.ass2.lam_lai"
-        android:targetPackage="ca.bcit.ass2.lam_lai" />
+        android:label="Tests for ca.bcit.ass2.calvinlai_anguslam"
+        android:targetPackage="ca.bcit.ass2.calvinlai_anguslam" />
 
     <application>
         <uses-library android:name="android.test.runner" />

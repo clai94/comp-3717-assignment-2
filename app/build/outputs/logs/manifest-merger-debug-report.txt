@@ -1,69 +1,95 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:3:5-35
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:5:5-67
-	android:name
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:5:22-64
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:7:5-27:19
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/clai/.android/build-cache/6cac117ba2689ec8b853274b2b63f3a3d5f5e8b6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/clai/.android/build-cache/d345df6e2ae6d26c680f02aa6a7a428a44a90f79/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/clai/.android/build-cache/ec7bfe1953e92ebeec7986114c7f0c79d4595c84/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/clai/.android/build-cache/a6ff994d7883ca74786202f5d7854d9218838d96/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/clai/.android/build-cache/c7e7429f4337564114204fbcff67740ab59b06f4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/clai/.android/build-cache/4d371e584660dc3c20322693c350906ee12a4990/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/clai/.android/build-cache/57240d214fe71340e1eb63346ff8eae165f81560/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/clai/.android/build-cache/17d62eb6b0f268793d4599efae146b3871c2e151/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/clai/.android/build-cache/c264b72949c287b7321d463e997d8153fb6d7737/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/clai/.android/build-cache/c8994f0fa71f9bd2e1dfc344b394d8444b60a657/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:13:9-40
-activity#ca.bcit.ass2.lam_lai.MainActivity
-ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:14:9-20:20
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:11:9-40
+activity#ca.bcit.ass2.calvinlai_anguslam.MainActivity
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:14:19-47
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:18:27-74
-activity#ca.bcit.ass2.lam_lai.Countries
-ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:21:9-23:64
-	android:label
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:23:13-61
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:16:27-74
+activity#ca.bcit.ass2.calvinlai_anguslam.CountryActivity
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:19:9-53
 	android:name
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:22:13-38
-activity#ca.bcit.ass2.lam_lai.CountryDetails
-ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:24:9-26:79
-	android:label
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:26:13-67
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:19:19-50
+activity#ca.bcit.ass2.calvinlai_anguslam.CountryDetailActivity
+ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:20:9-68
 	android:name
-		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml:25:13-43
+		ADDED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml:20:19-56
 uses-sdk
-INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/clai/.android/build-cache/6cac117ba2689ec8b853274b2b63f3a3d5f5e8b6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/clai/.android/build-cache/d345df6e2ae6d26c680f02aa6a7a428a44a90f79/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/clai/.android/build-cache/ec7bfe1953e92ebeec7986114c7f0c79d4595c84/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/clai/.android/build-cache/a6ff994d7883ca74786202f5d7854d9218838d96/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/clai/.android/build-cache/c7e7429f4337564114204fbcff67740ab59b06f4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/clai/.android/build-cache/4d371e584660dc3c20322693c350906ee12a4990/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/clai/.android/build-cache/57240d214fe71340e1eb63346ff8eae165f81560/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/clai/.android/build-cache/17d62eb6b0f268793d4599efae146b3871c2e151/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/clai/.android/build-cache/c264b72949c287b7321d463e997d8153fb6d7737/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/clai/.android/build-cache/c8994f0fa71f9bd2e1dfc344b394d8444b60a657/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/clai/.android/build-cache/6cac117ba2689ec8b853274b2b63f3a3d5f5e8b6/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/comp-3717-assignment-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clai/Documents/BCIT/FALL2017/COMP3717 Mobile App/assignments/assignment02_v2/CalvinLai_AngusLam/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/clai/.android/build-cache/6cac117ba2689ec8b853274b2b63f3a3d5f5e8b6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/clai/.android/build-cache/d345df6e2ae6d26c680f02aa6a7a428a44a90f79/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/clai/.android/build-cache/ec7bfe1953e92ebeec7986114c7f0c79d4595c84/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/clai/.android/build-cache/a6ff994d7883ca74786202f5d7854d9218838d96/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/clai/.android/build-cache/c7e7429f4337564114204fbcff67740ab59b06f4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/clai/.android/build-cache/4d371e584660dc3c20322693c350906ee12a4990/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/clai/.android/build-cache/57240d214fe71340e1eb63346ff8eae165f81560/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/clai/.android/build-cache/17d62eb6b0f268793d4599efae146b3871c2e151/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/clai/.android/build-cache/c264b72949c287b7321d463e997d8153fb6d7737/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/clai/.android/build-cache/6cac117ba2689ec8b853274b2b63f3a3d5f5e8b6/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/clai/.android/build-cache/6cac117ba2689ec8b853274b2b63f3a3d5f5e8b6/output/AndroidManifest.xml:26:9-47

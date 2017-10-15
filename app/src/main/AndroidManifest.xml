@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ca.bcit.ass2.lam_lai">
-
-    <uses-permission android:name="android.permission.INTERNET" />
+    package="ca.bcit.ass2.calvinlai_anguslam">
 
     <application
         android:allowBackup="true"
@@ -18,12 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".Countries"
-            android:label="@string/title_activity_countries" />
-        <activity
-            android:name=".CountryDetails"
-            android:label="@string/title_activity_country_details"></activity>
+        <activity android:name=".CountryActivity" />
+        <activity android:name=".CountryDetailActivity"></activity>
     </application>
 
 </manifest>

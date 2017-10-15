@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ca.bcit.ass2.lam_lai"
+    package="ca.bcit.ass2.calvinlai_anguslam"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -8,7 +8,9 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="26" />
 
-    <uses-permission android:name="android.permission.INTERNET" />
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
 
     <application
         android:allowBackup="true"
@@ -17,19 +19,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="ca.bcit.ass2.lam_lai.MainActivity" >
+        <activity android:name="ca.bcit.ass2.calvinlai_anguslam.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="ca.bcit.ass2.lam_lai.Countries"
-            android:label="@string/title_activity_countries" />
-        <activity
-            android:name="ca.bcit.ass2.lam_lai.CountryDetails"
-            android:label="@string/title_activity_country_details" />
+        <activity android:name="ca.bcit.ass2.calvinlai_anguslam.CountryActivity" />
+        <activity android:name="ca.bcit.ass2.calvinlai_anguslam.CountryDetailActivity" />
     </application>
 
 </manifest>
