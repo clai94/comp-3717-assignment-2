@@ -16,8 +16,6 @@ import java.net.URL;
 public class HttpHandler {
     private static final String TAG = HttpHandler.class.getSimpleName();
 
-    //public HttpHandler() {   } <-Unused constructor?
-
     /**
      * This creates a GET request to the passed in URL, and then
      * converts and returns the content http response as a String.

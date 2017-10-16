@@ -8,9 +8,7 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="26" />
 
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="26.0.0-alpha1" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -26,8 +24,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="ca.bcit.ass2.calvinlai_anguslam.CountryActivity" />
-        <activity android:name="ca.bcit.ass2.calvinlai_anguslam.CountryDetailActivity" />
+        <activity
+            android:name="ca.bcit.ass2.calvinlai_anguslam.CountryActivity"
+            android:label="@string/title_activity_countries" />
+        <activity
+            android:name="ca.bcit.ass2.calvinlai_anguslam.CountryDetailActivity"
+            android:label="@string/title_activity_country_details" />
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"

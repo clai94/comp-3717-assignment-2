@@ -1,18 +1,12 @@
 <resources>
     <string name="app_name">CalvinLai_AngusLam</string>
-    <string-array name="continents">
-        <item>North America</item>
-        <item>South America</item>
-        <item>Europe</item>
-        <item>Asia</item>
-        <item>Africa</item>
-        <item>Australia and New Zealand</item>
-        <item>Antarctica</item>
-    </string-array>
     <string name="name">Name: </string>
-    <string name="capital">Captial: </string>
+    <string name="capital">Capital: </string>
     <string name="area">Area: </string>
     <string name="population">Population: </string>
     <string name="borders">Borders: </string>
     <string name="region">Region: </string>
+    <string name="title_activity_countries">countries</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_country_details">Country Details</string>
 </resources>

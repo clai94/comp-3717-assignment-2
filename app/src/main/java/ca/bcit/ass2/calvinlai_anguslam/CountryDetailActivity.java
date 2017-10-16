@@ -20,15 +20,17 @@ public class CountryDetailActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_country_detail);
-        Intent intent = getIntent();
-        HttpHandler sh = new HttpHandler();
-        String name_ = intent.getStringExtra("name");
-        String capital_ = intent.getStringExtra("capital");
-        String region_ = intent.getStringExtra("region");
+
+        Intent      intent = getIntent();
+        HttpHandler sh     = new HttpHandler();
+
+        String name_        = intent.getStringExtra("name");
+        String capital_     = intent.getStringExtra("capital");
+        String region_      = intent.getStringExtra("region");
         String populations_ = intent.getStringExtra("population");
-        String area_ = intent.getStringExtra("area");
-        String borders_ = intent.getStringExtra("borders");
-        String flag_ = intent.getStringExtra("flag");
+        String area_        = intent.getStringExtra("area");
+        String borders_     = intent.getStringExtra("borders");
+        String flag_        = intent.getStringExtra("flag");
 
         TextView  name       = (TextView) findViewById(R.id.name);
         TextView  capital    = (TextView) findViewById(R.id.capital);
@@ -36,7 +38,8 @@ public class CountryDetailActivity extends Activity {
         TextView  population = (TextView) findViewById(R.id.population);
         TextView  area       = (TextView) findViewById(R.id.area);
         TextView  borders    = (TextView) findViewById(R.id.borders);
-        WebView flag       = (WebView) findViewById(R.id.flag);
+        WebView flag         = (WebView) findViewById(R.id.flag);
+
         flag.getSettings().setLoadWithOverviewMode(true);
         flag.getSettings().setUseWideViewPort(true);
 
