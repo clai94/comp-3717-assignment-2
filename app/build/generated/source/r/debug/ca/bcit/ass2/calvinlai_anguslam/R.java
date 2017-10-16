@@ -502,8 +502,6 @@ containing a value of this type.
         public static final int title_activity_details=0x7f050009;
     }
     public static final class style {
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f060000;
     }
     public static final class styleable {

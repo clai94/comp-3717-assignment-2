@@ -589,20 +589,27 @@
                     "startLine": 97,
                     "startColumn": 4,
                     "startOffset": 9347,
-                    "endColumn": 55,
-                    "endOffset": 9398
+                    "endColumn": 44,
+                    "endOffset": 9387
                 },
                 "from": {
-                    "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 44,
+                        "endOffset": 56
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 9403,
+                    "startOffset": 9392,
                     "endColumn": 39,
-                    "endOffset": 9438
+                    "endOffset": 9427
                 },
                 "from": {
                     "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
@@ -612,9 +619,9 @@
                 "to": {
                     "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 9443,
+                    "startOffset": 9432,
                     "endColumn": 45,
-                    "endOffset": 9484
+                    "endOffset": 9473
                 },
                 "from": {
                     "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
@@ -624,9 +631,9 @@
                 "to": {
                     "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 9489,
+                    "startOffset": 9478,
                     "endColumn": 45,
-                    "endOffset": 9530
+                    "endOffset": 9519
                 },
                 "from": {
                     "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
@@ -636,9 +643,9 @@
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 9535,
+                    "startOffset": 9524,
                     "endColumn": 39,
-                    "endOffset": 9570
+                    "endOffset": 9559
                 },
                 "from": {
                     "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
@@ -648,9 +655,9 @@
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 9575,
+                    "startOffset": 9564,
                     "endColumn": 51,
-                    "endOffset": 9622
+                    "endOffset": 9611
                 },
                 "from": {
                     "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
@@ -660,9 +667,9 @@
                 "to": {
                     "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 9627,
+                    "startOffset": 9616,
                     "endColumn": 43,
-                    "endOffset": 9666
+                    "endOffset": 9655
                 },
                 "from": {
                     "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
@@ -672,9 +679,9 @@
                 "to": {
                     "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 9671,
+                    "startOffset": 9660,
                     "endColumn": 62,
-                    "endOffset": 9729
+                    "endOffset": 9718
                 },
                 "from": {
                     "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
@@ -684,9 +691,9 @@
                 "to": {
                     "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 9734,
+                    "startOffset": 9723,
                     "endColumn": 74,
-                    "endOffset": 9804
+                    "endOffset": 9793
                 },
                 "from": {
                     "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
@@ -696,9 +703,9 @@
                 "to": {
                     "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 9809,
+                    "startOffset": 9798,
                     "endColumn": 58,
-                    "endOffset": 9863
+                    "endOffset": 9852
                 },
                 "from": {
                     "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\strings.xml"
@@ -708,21 +715,13 @@
                 "to": {
                     "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 9868,
+                    "startOffset": 9857,
                     "endLine": 109,
                     "endColumn": 12,
-                    "endOffset": 9958
+                    "endOffset": 9912
                 },
                 "from": {
-                    "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 54,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 144
-                    }
+                    "file": "C:\\Users\\PC\\Desktop\\BCIT\\Term 3\\3717\\Assignments\\Assignment 2\\comp-3717-assignment-2\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]
